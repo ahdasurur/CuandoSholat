@@ -103,9 +103,9 @@
     {
       "id": 1,
       "category": "Subuh, Dzuhur, Ashar, Maghrib, Isya",
-      "title": "Iftittah",
-      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/iftitah.png",
-      "content": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide7.html",
+      "title": "Niat Sholat",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/berdiri.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide6.html",
       "video": ""
     },
     {
@@ -217,6 +217,7 @@
   ]
 
 }
+
 
 
 
