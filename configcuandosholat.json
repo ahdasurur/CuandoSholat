@@ -3,7 +3,7 @@
     {
       "status": 1,
       "redirect_url": "",
-      "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/guide.html",
+      "privacy_policy_url": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/privacy_policy.html",
       "email_feedback_and_report": "ahda.surur@gmail.com",
       "webview_cache": true,
       "post_list_in_large_style": false,
@@ -237,3 +237,4 @@
   ]
 
 }
+
