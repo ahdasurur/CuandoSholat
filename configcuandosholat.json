@@ -104,7 +104,7 @@
       "id": 1,
       "category": "Subuh, Dzuhur, Ashar, Maghrib, Isya",
       "title": "Iftittah",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/free-fire.jpg",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/iftitah.png",
       "content": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide7.html",
       "video": ""
     },
@@ -217,5 +217,6 @@
   ]
 
 }
+
 
 
