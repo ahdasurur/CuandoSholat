@@ -76,17 +76,17 @@
     {
       "id": 1,
       "name": "Subuh",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/apps.png"
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/masjid%20subuh.webp"
     },
     {
       "id": 2,
       "name": "Dzuhur",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/game.png"
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/masjid%20dzuhur.jpg"
     },
     {
       "id": 3,
       "name": "Ashar",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/os.png"
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/masjid%20ashar.jpg"
     },
     {
       "id": 4,
@@ -96,7 +96,7 @@
     {
       "id": 5,
       "name": "Isya",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/mods.png"
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/masjid%20isya.jpg"
     }
   ],
   "posts": [
@@ -109,7 +109,7 @@
       "video": ""
     },
     {
-      "id": 2,
+      "id": 3,
       "category": "Subuh, Dzuhur, Ashar, Maghrib, Isya",
       "title": "Iftittah",
       "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/iftitah.png",
@@ -117,106 +117,81 @@
       "video": ""
     },
     {
-      "id": 3,
+      "id": 4,
       "category": "Subuh, Dzuhur, Ashar, Maghrib, Isya",
       "title": "Rukuk",
       "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/rukuk.png",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/programming.html",
+      "content": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide2.html",
       "video": ""
     },
     {
-      "id": 4,
-      "category": "Game",
-      "title": "Mobile Legends on PC Bruno Guide: Best Build, Emblem and Gameplay Tips",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/mobile-legends.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/mobile-legends.html",
+      "id": 2,
+      "category": "Subuh, Dzuhur, Ashar, Maghrib, Isya",
+      "title": "Takbiratul Ihram",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/iktidal.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide8.html",
       "video": ""
     },
     {
       "id": 5,
-      "category": "Game",
-      "title": "PUBG New State on PC: Global launch time based on your country",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/pubg.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/pubg.html",
+      "category": "Subuh, Dzuhur, Ashar, Maghrib, Isya",
+      "title": "I'tidal Bangkit Dari Rukuk",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/iktidal.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide4.html",
       "video": ""
     },
     {
       "id": 6,
-      "category": "Tips & Trick",
-      "title": "Awaken: Chaos Era: The complete Reroll guide and tips",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/chaos-era.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/chaos-era.html",
+      "category": "Subuh, Dzuhur, Ashar, Maghrib, Isya",
+      "title": "I'tidal Saat berdiri tegak",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/berdiri.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide3.html",
       "video": ""
     },
     {
       "id": 7,
-      "category": "OS, Apps",
-      "title": "How to build your own custom Android ROM",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/android.jpg",
-      "content": "file:///android_asset/how-to-build-your-own-custom-android-rom.html",
+      "category": "Subuh, Dzuhur, Ashar, Maghrib, Isya",
+      "title": "Duduk Antara Dua Sujud",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/dudukduasujud.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide11.html",
       "video": ""
     },
     {
       "id": 8,
-      "category": "Apps",
-      "title": "How to hide your iPhone photos in iOS 16",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/ios.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/ios.html",
+      "category": "Subuh, Dzuhur, Ashar, Maghrib, Isya",
+      "title": "Sujud",
+     "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/sujud.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide1.html",
       "video": ""
     },
     {
       "id": 9,
-      "category": "Mods",
-      "title": "The Witcher 3 Complete Edition Mods List",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/the-witcher.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/the-witcher.html",
+      "category": "Subuh, Dzuhur, Ashar, Maghrib, Isya",
+      "title": "Tahiyat Awal",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/tahiyat.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide13.html",
       "video": ""
     },
     {
       "id": 10,
-      "category": "Lifestyle",
-      "title": "Holiday survival guide: How to seize the season before it seizes you",
-      "image": "https://img.youtube.com/vi/c-Rq61sXpV0/mqdefault.jpg",
-      "content": "<p>If you&rsquo;re dreading decking the halls with your relatives this year, there are seasonal survival tips that may help you get through the holidays.</p><p>If you feel holidays are more of a hassle than a hallmark movie, you&rsquo;re not alone. According to a recent poll, at least 75 percent of Americans admit they need to escape family this time of year. But there are ways to make the most of the season.</p><p>On average, Americans will stay with family for three and a half days and nearly 40 percent say finding sleeping arrangements is one of the most stressful parts of preparing for out-of-town family.</p><p>Other top concerns are lack of privacy, family getting on your nerves, and drama between family members.</p><p>&ldquo;Most of us want harmony in our families,&rdquo; says Family &amp; Marriage Therapist, Cherlette McCullough.</p><p>One of the most important sanity savers is to plan early, know who&rsquo;s traveling, and what the sleeping arrangements are.</p><p>Set realistic expectations for yourself. When you adjust your mindset to something that&rsquo;s realistic, you&rsquo;re already ahead of the game. It&rsquo;s important to find a balance between being generous and hospitable. Most importantly, keep the lines of communication open with your significant other about how you are feeling.</p><p>&ldquo;If you&rsquo;re feeling that you&rsquo;re not accepted, I would say the first thing too, talk to your mate about that,&rdquo; said McCullough.</p><p>One last tip, try outsourcing some of your big holiday meals. Experts say order in all of the holiday sides and trimmings and just focus on the turkey or ham. That way you spend less time in the kitchen and more time enjoying the season.</p>",
-      "video": "https://www.youtube.com/watch?v=c-Rq61sXpV0"
+      "category": "Subuh, Dzuhur, Ashar, Maghrib, Isya",
+      "title": "Tahiyat Akhir",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/tahiyat.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide14.html",
+      "video": ""
     },
     {
       "id": 11,
-      "category": "Lifestyle",
-      "title": "Your Step-by-Step Guide to Filling Out a Money Order",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/money-order.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/money-order.html",
+      "category": "Subuh, Dzuhur, Ashar, Maghrib, Isya",
+      "title": "Salam",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/salam.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide15.html",
       "video": ""
-    }
-  ],
-  "more_apps": [
-    {
-      "id": 1,
-      "title": "Guide Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
-    },
-    {
-      "id": 2,
-      "title": "Stream Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
-    },
-    {
-      "id": 3,
-      "title": "WebView Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
-    },
-    {
-      "id": 4,
-      "title": "Wallpaper Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-wallpaper-json-android-wallpaper-app-212"
     }
   ]
 
 }
+
 
 
 
