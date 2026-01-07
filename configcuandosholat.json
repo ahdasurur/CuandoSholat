@@ -112,7 +112,7 @@
       "id": 3,
       "category": "Subuh, Dzuhur, Ashar, Maghrib, Isya",
       "title": "Iftittah",
-      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/iftitah.png",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/berdiridoa.png",
       "content": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide7.html",
       "video": ""
     },
@@ -128,7 +128,7 @@
       "id": 2,
       "category": "Subuh, Dzuhur, Ashar, Maghrib, Isya",
       "title": "Takbiratul Ihram",
-      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/iktidal.png",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/takbir.png",
       "content": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide8.html",
       "video": ""
     },
@@ -136,7 +136,7 @@
       "id": 5,
       "category": "Subuh, Dzuhur, Ashar, Maghrib, Isya",
       "title": "I'tidal Bangkit Dari Rukuk",
-      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/iktidal.png",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/takbir.png",
       "content": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide4.html",
       "video": ""
     },
@@ -152,7 +152,7 @@
       "id": 7,
       "category": "Subuh, Dzuhur, Ashar, Maghrib, Isya",
       "title": "Duduk Antara Dua Sujud",
-      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/dudukduasujud.png",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/duduk%20diantara%20dua%20sujud.png",
       "content": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide11.html",
       "video": ""
     },
@@ -191,6 +191,7 @@
   ]
 
 }
+
 
 
 
