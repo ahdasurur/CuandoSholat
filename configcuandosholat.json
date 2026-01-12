@@ -23,11 +23,11 @@
     {
       "ad_status": 1,
       "main_ad": "fan",
-      "backup_ad": "none",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "backup_ad": "admob",
+      "admob_banner_unit_id": "ca-app-pub-1331143855608995/2186096395",
+      "admob_interstitial_unit_id": "ca-app-pub-1331143855608995/3348146584",
+      "admob_native_unit_id": "ca-app-pub-1331143855608995/4315751507",
+      "admob_app_open_unit_id": "ca-app-pub-1331143855608995/8408901573",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
@@ -191,6 +191,7 @@
   ]
 
 }
+
 
 
 
