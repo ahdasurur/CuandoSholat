@@ -24,9 +24,9 @@
       "ad_status": 1,
       "main_ad": "admob",
       "backup_ad": "fan",
-      "admob_banner_unit_id": "ca-app-pub-1331143855608995/2186096395",
-      "admob_interstitial_unit_id": "ca-app-pub-1331143855608995/3348146584",
-      "admob_native_unit_id": "ca-app-pub-1331143855608995/4315751507",
+      "admob_banner_unit_id": "ca-app-pub-1331143855608995/4418465923",
+      "admob_interstitial_unit_id": "ca-app-pub-1331143855608995/3105384254",
+      "admob_native_unit_id": "ca-app-pub-1331143855608995/5620060479",
       "admob_app_open_unit_id": "ca-app-pub-1331143855608995/8408901573",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
@@ -191,6 +191,7 @@
   ]
 
 }
+
 
 
 
